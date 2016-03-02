@@ -1,0 +1,4 @@
+D:\Projects\Companies\Robo\C#\Robo\ShortMessageParser\bin\Debug\ShortMessageParser.dll
+D:\Projects\Companies\Robo\C#\Robo\ShortMessageParser\bin\Debug\ShortMessageParser.pdb
+D:\Projects\Companies\Robo\C#\Robo\ShortMessageParser\obj\Debug\ShortMessageParser.dll
+D:\Projects\Companies\Robo\C#\Robo\ShortMessageParser\obj\Debug\ShortMessageParser.pdb

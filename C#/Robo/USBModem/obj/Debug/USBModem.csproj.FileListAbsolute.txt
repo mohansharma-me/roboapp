@@ -1,0 +1,5 @@
+D:\Projects\Companies\Robo\C#\Robo\USBModem\bin\Debug\USBModem.dll
+D:\Projects\Companies\Robo\C#\Robo\USBModem\bin\Debug\USBModem.pdb
+D:\Projects\Companies\Robo\C#\Robo\USBModem\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Companies\Robo\C#\Robo\USBModem\obj\Debug\USBModem.dll
+D:\Projects\Companies\Robo\C#\Robo\USBModem\obj\Debug\USBModem.pdb

@@ -1,0 +1,7 @@
+D:\Projects\Companies\Robo\C#\Robo\USBModem\bin\Release\USBModem.dll
+D:\Projects\Companies\Robo\C#\Robo\USBModem\bin\Release\USBModem.pdb
+D:\Projects\Companies\Robo\C#\Robo\USBModem\bin\Release\ShortMessageParser.dll
+D:\Projects\Companies\Robo\C#\Robo\USBModem\bin\Release\ShortMessageParser.pdb
+D:\Projects\Companies\Robo\C#\Robo\USBModem\obj\Release\USBModem.csprojResolveAssemblyReference.cache
+D:\Projects\Companies\Robo\C#\Robo\USBModem\obj\Release\USBModem.dll
+D:\Projects\Companies\Robo\C#\Robo\USBModem\obj\Release\USBModem.pdb

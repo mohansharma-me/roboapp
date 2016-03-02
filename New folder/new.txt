@@ -1,0 +1,15 @@
+settting dialogresult in change value.
+add update button to mc operation.
+user setting  - user management with rights
+email report - ask email, and no of client to be sent on emails.
+
+
+--- security task
+
+add-view
+	clients,sites,machines
+mc-operation,
+mc-settings,
+manage users,
+email reports,
+messages

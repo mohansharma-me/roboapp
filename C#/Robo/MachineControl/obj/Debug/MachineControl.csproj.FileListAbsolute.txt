@@ -1,0 +1,5 @@
+D:\Projects\Companies\Robo\C#\Robo\MachineControl\bin\Debug\MachineControl.dll
+D:\Projects\Companies\Robo\C#\Robo\MachineControl\bin\Debug\MachineControl.pdb
+D:\Projects\Companies\Robo\C#\Robo\MachineControl\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Companies\Robo\C#\Robo\MachineControl\obj\Debug\MachineControl.dll
+D:\Projects\Companies\Robo\C#\Robo\MachineControl\obj\Debug\MachineControl.pdb

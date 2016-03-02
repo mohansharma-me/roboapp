@@ -1,0 +1,4 @@
+﻿------ Clean started: Project: Robo, Configuration: Debug Any CPU ------
+------ Clean started: Project: MachineControl, Configuration: Debug Any CPU ------
+------ Clean started: Project: USBModem, Configuration: Debug Any CPU ------
+========== Clean: 3 succeeded, 0 failed, 0 skipped ==========

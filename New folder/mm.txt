@@ -1,0 +1,87 @@
+remove manage word from - client , sites, machine.
+
+add separate buttons for view & add for - client, sites, machines.
+
+add user setting,email buttons
+add hide all panels (Home button)
+
+remove parameter variable from general-settings,
+
+remove ATM machine from whole project.
+
+** clients
+
+replace contact info -> contact no
+replace contact nickname -> write in capitilize form
+
+replace site column in list with no of sites
+replace "not working" word -> breakdown
+
+seperate columns of status in H,UH,N,X.
+
+
+** sites
+
+remove id,
+	rearrange in this order -> site name, client id, client nm, 
+	ro,mb,softner,dm(time of update)
+
+	all machine types :: have sub-columns of TIME OF UPDATE and NO OF UPDATES	
+** machines
+
+parameters - remove frm want to display
+	workcond -> on-off status
+	pretreatment sand filter,
+	pre carbon filter,
+	pre softner,
+	tot vol of plant produced
+	tot no of ro working hours
+	today working hours
+	tod plant production
+	flushing
+	tank full
+
+parameters (add parameter setting in add machine page)
+	new listview with following attributes.
+	6 columns..
+		1.tick,
+		2.desc,
+		3-4. heathy limit
+			3. from,
+			4. to
+		5. unh limit(<.>.= radio),
+		6. stop(<.>.= radio).
+	row items (fixed):
+		pres gua 1,2,3,4
+		pres ro in,out
+		feed water tds,
+		permeat water tds,
+		rwp amp,hpp amp,
+		dryrun amp, lp,hp,
+		floty, sedment filter service, carbon filter service,softner
+
+view mc
+	add refresh buttons here (remove from mc operation)
+	filter through mctype, client, sites in mc operation.
+	after lastupdated column add status,
+
+	perticuler status :: ro (on-off, lp, tank full, flushing),
+
+	new column production having sub-columns
+	1.tod hour,
+	2.tot hr,
+	3.tod producti,
+	4.tot producti
+	
+	readings(	want to display list.)
+
+mc operation
+
+remove update buttons & dropdown and value's text boxs.
+replace it with listview of list (as like from mc operation).
+
+mc settings
+
+...
+
+B-1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21

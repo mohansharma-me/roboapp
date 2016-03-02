@@ -1,0 +1,97 @@
+'QuickSMS.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuickSMS.exe' (Managed (v4.0.30319)): Loaded 'D:\Projects\Visio\QuickSMS\QuickSMS\bin\Debug\QuickSMS.exe', Symbols loaded.
+'QuickSMS.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuickSMS.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuickSMS.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuickSMS.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuickSMS.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuickSMS.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll'
+'QuickSMS.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll'
+The thread '<No Name>' (0x518) has exited with code 0 (0x0).
+The thread '<No Name>' (0x24b8) has exited with code 0 (0x0).
+The thread '<No Name>' (0x26c0) has exited with code 0 (0x0).
+The thread 'RefreshModem' (0x26e0) has exited with code 0 (0x0).
+AT
+
+OK
+
+AT+CREG?
+
+
++CREG: 0,1
+
+OK
+
+AT+CFUN=1
+
+
+OK
+
+AT+CSCS="GSM"
+
+
+OK
+
+AT+CMGF=1
+
+
+OK
+
+AT+CSMP=49,167,0,0
+
+
+OK
+
+AT+CNMI=1
+
+
+OK
+
+The thread '<No Name>' (0x1828) has exited with code 0 (0x0).
+at+creg?
+
+
++CREG: 0,1
+
+OK
+
+at+csq
+
+
++CSQ: 20,99
+
+OK
+
+The thread '<No Name>' (0x2424) has exited with code 0 (0x0).
+at+creg?
+
+
++CREG: 0,1
+
+OK
+
+at+csq
+
+
++CSQ: 20,99
+
+OK
+
+The thread '<No Name>' (0x1c48) has exited with code 0 (0x0).
+'QuickSMS.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+
++CREG: 0,1
+
+OK
+
+
++CSQ: 16,99
+
+OK
+
+
++CDS: 6,98,"+919722505033",145,"14/07/26,02:03:47+22","14/07/26,02:03:52+22",0
+
++CDS: 6,100,"+919722505033",145,"14/07/26,02:03:52+22","14/07/26,02:03:53+22",0
+
++CDS: 2,99,"+919722505033",145,"14/07/26,02:03:48+22","14/07/26,02:03:52+22",0
